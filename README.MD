@@ -1,13 +1,20 @@
 # Siphome
 
-<details id=X open>
-<summary><h6>The programmig languages used in this project</h6></summary>
+_This is a responsive websits_
+<br><br>
 
-Here's a recap of all the languages that I've used:
+
+## Tech Stack
+
+Here's all of the programmig languages that I've used in this project:
 
 - HTML.
 - CSS.
 
-  My website is now live and has been deployed!
 
-</details>
+## Authors
+
+- [@abdallahjabr47](https://www.github.com/abdallahjabr47)
+
+<br>My website is now live and has been deployed!
+
